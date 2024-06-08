@@ -40,8 +40,7 @@ mainContainer: {
   textInput: {
     flex: 1,
     marginTop: -12,
-    
-    color: '#05375a',
+    color: '#05375b',
   },
   loginContainer: {
     backgroundColor: '#fff',
