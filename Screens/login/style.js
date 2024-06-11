@@ -6,7 +6,7 @@ mainContainer: {
   textSign: {
     fontSize: 18,
     fontWeight: 'bold',
-    color: 'red',
+    color: 'white',
   },
   smallIcon: {
     marginRight: 10,
@@ -38,9 +38,17 @@ mainContainer: {
     borderRadius: 50,
   },
   textInput: {
-    flex: 1,
-    marginTop: -12,
-    color: '#05375b',
+      width: '70%',
+      marginTop: -12,
+      backgroundColor: 'white',
+      alignItems: 'center',
+      paddingHorizontal: 15,
+      
+      borderRadius: 50,
+    
+    // 
+    // 
+    // color: '#05375b',
   },
   loginContainer: {
     backgroundColor: '#fff',
@@ -69,6 +77,7 @@ mainContainer: {
     width: '70%',
     backgroundColor: '#420475',
     alignItems: 'center',
+    margin:40,
     paddingHorizontal: 15,
     paddingVertical: 15,
     borderRadius: 50,

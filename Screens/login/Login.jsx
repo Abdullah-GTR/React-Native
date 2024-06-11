@@ -19,9 +19,9 @@ function LoginPage() {
                         <FontAwesome name="user-o" color="#420475" style={styles.smallIcon} />
                         <TextInput placeholder="Mobile or Email" />
                     </View>
-                    <View style={styles.actions}>
+                    <View style={styles.actions} >
                         <FontAwesome name="lock" color="#420475" style={styles.smallIcon} />
-                        <TextInput placeholder="Password"/>
+                        <TextInput placeholder="Password" />
                     </View>
                     <View style={{
                         justifyContent: 'flex-end',
